@@ -1,1 +1,1 @@
-# contoso_play
+# Contoso play store web app
