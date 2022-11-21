@@ -1,6 +1,6 @@
 # Contoso play store web app
 
-Simulating risk detections in Identity Protection (Leaked Credentials). Note: this app is disabled for sign-in. 
+Simulating risk detections in Identity Protection ([Leaked Credentials](https://learn.microsoft.com/azure/active-directory/identity-protection/howto-identity-protection-simulate-risk#leaked-credentials-for-workload-identities)). Note: this app is disabled for sign-in. 
 
 "AadClientId": "819c6785-16cb-46e8-a64e-e47090425f42",
 "AadSecret": "nrB8Q~zqb2VDspcGf2XVYBrS5T2re2qmZvyeFaeB",
